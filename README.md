@@ -1,5 +1,9 @@
 # Secure-ADObjectOwnerShip.ps1
-Code must be run in Administrator
+Script must be run in Administrator.
+Snippets Repository must be available.
+Folder Structure used to build the script:
+
+![Folder Structure Window](GeneralTab-2.png)
 
 ## In Command Promt
 powershell Start-Process powershell -Verb runAs
