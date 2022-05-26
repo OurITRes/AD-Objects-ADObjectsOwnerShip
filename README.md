@@ -18,6 +18,6 @@ Start up the **Create Taskbox** and specify the file to run as one of the below:
 
 In the Create Task windows, provide the values to all of the menu items shown below ensuring the Run with highest privileges checkbox is checked.
 
-[GeneralTab-1.png]
+![Create Task Window](GeneralTab-1.png)
 
 Now when the scheduled task is invoked, it will execute PowerShell as administrator!
